@@ -73,3 +73,8 @@
   animation: zoomani 2s 1;
 }
 
+@media (prefers-reduced-motion){
+  .index_pic, #index_pic1, #index_pic2, #index_pic3{
+    animation: none;
+  }
+}
