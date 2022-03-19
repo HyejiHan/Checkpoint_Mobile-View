@@ -1,0 +1,10 @@
+.bigsection{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.subbig1, .subbig2{
+  margin-bottom: 60px;
+}
